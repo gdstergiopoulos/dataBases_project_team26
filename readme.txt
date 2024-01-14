@@ -1,10 +1,12 @@
 ΠΡΟΤΖΕΚΤ ΣΤΟ ΜΑΘΗΜΑ ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ
 ΔΙΔΑΣΚΑΛΙΑ 2023-2024 
 ΥΠΗΡΕΣΙΕΣ ΓΙΑ ΦΟΙΤΗΤΕΣ -ΟΜΑΔΑ 26
+ANTONIOS PANOURGIAS 1083996
+GEORGIOS STERGIOPOULOS 1083861
 
---code link:
+--code link: https://github.com/gdstergiopoulos/dataBases_project_team26
 
---demo video link:
+--demo video link: https://youtu.be/sr63W4Idb0w
 
 --Setup:
 Για να τρέξειι η εφαρμογή πρέπει:
